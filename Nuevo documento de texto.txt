@@ -1,0 +1,38 @@
+  <div class="h22">
+    <div class="h222">   
+    <h2>¿Por qué se le conoce como "La Bombonera"?</h2><p>
+     <strong>Así la bautizó Sulcic, a raíz de una caja de bombones que recibió como regalo y que tenía la misma forma de su proyecto</strong>. El bosquejo original preveía tribunas en los cuatro 
+     costados, pero las escasas dimensiones obligaron a mutar el diseño para elaborar una especie de “D”. De allí también se explica la famosa acústica, además de la sensación de 
+     cercanía que existe con el público por haber tenido que optimizar el espacio y levantar las bandejas con una pendiente muy marcada.</p>
+	</div>
+	<div class="img2">
+     <img class ="flip" id = "cara" onMouseOver="cambiar()" onMouseOut = "volver()" width="100" height="150" src="galeria/bombonera.jpg" onclick="cartasDeJugador()">
+	</div>
+   </div>
+
+
+----------------------------------------------------------------------------------------------------------------
+
+
+.flip{
+    position: relative;
+    transition: all 1s ease;
+    transform: perspective(600px);
+    transform-origin: 100% 50%;
+    transform-style: preserve-3d;
+}
+
+.flip:hover{
+
+    transform: perspective(600px) rotateY(-180deg) translateX(100%);
+}
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+https://enriquejros.com/efectos-imagenes-css/
+
+https://xitrus.es/blog/87/Efecto_flip_con_fotos_en_3D_con_CSS3
+
+https://www.freecodecamp.org/espanol/news/como-crear-un-menu-despegable/

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+   <head>
+     <title>CABJweb-Home</title>
+	 <meta charset="utf-8">
+	 <link href="estilos.css" rel="stylesheet" type="text/css">
+    
+	</head>
+   <body>
+    <header>
+	<div class="head1">
+    <div class="amenu">
+	 <ul class="br">
+	   <ul>
+	   
+	  </ul>
+      <li><img src="imagenes/iconos/men.png" title="menú">
+        <ul>
+		<li><a href="plantel.html" target="_blank">plantel</a></li>
+		<li><a href="camiseta.html" target="_blank">Camisetas</a></li>
+		<li><a href="autoridades.html" target="_blank">Autoridades</a></li>
+	    <li><a href="bombonera.html" target="_blank">La Bombonera</a></li>
+	    <li><a href="salon.html" target="_blank">Salon de trofeos</a></li>
+	    <li><a href="himno.html" target="_blank">Himbo de CABJ</a></li>
+        </ul> 			
+	 </ul>
+	</div>
+	
+	<div class="ini">
+	<a href="https://www.adidas.com.ar/boca_juniors" target="_blank">
+	 <img src="imagenes/iconos/adidas.png" title="Sponsor de CABJ">
+	 <button>Sponsor de CABJ</button>
+	</a>
+	</div>
+	<div class="logohead">
+	 <img src="imagenes/logo.png" alt="escudoheader">
+	 <h1>Todo Sobre Boca ®</h1>
+	</div>
+	</header>
+	
+	<div class="subheader">
+	 <div class="ahead">
+	 <a href="https://www.instagram.com/bocajrs/" target="_blank"><img src="imagenes/iconos/ig.png" alt="iconohead" title="Instagram"></a><h1>@bocajs</h1></div>
+	 <div class="ahead">
+	 <a href="https://www.facebook.com/BocaJuniors/" target="_blank"><img src="imagenes/iconos/face.png" alt="iconohead" title="Facebook"></a><h1>@BOCA</h1></div>
+	 <div class="ahead">
+	 <a href="https://www.youtube.com/@ElCanaldeBoca" target="_blank"><img src="imagenes/iconos/yt.png" alt="iconohead" title="YouTube"></a><h1>@ElCanaldeBoca</h1></div>
+	 <div class="ahead">
+	 <a href="https://x.com/BocaJrsOficial" target="_blank"><img src="imagenes/iconos/x.png" alt="iconohead" title="Twitter"></a><h1>@BocaJrsOficial</h1>
+	 </div>
+	 </div>
+	
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container4">
+	<div class="ws_images"><ul>
+		<li><img src="data4/images/terceracamisetaadidasbocajuniors2024.jpg" alt="tercera-camiseta-adidas-boca-juniors-2024" title="tercera-camiseta-adidas-boca-juniors-2024" id="wows4_0"/></li>
+		<li><img src="data4/images/bocajuniors_cover.jpg" alt="bocajuniors_cover" title="bocajuniors_cover" id="wows4_1"/></li>
+		<li><img src="data4/images/bocacampeon.png" alt="bocacampeon" title="bocacampeon" id="wows4_2"/></li>
+		<li><a href="http://wowslider.net"><img src="data4/images/gago.jpg" alt="html5 slideshow" title="gago" id="wows4_3"/></a></li>
+		<li><img src="data4/images/gyglrnvwkaaqegr.jpg" alt="GYGLrNvWkAAQEgR" title="GYGLrNvWkAAQEgR" id="wows4_4"/></li>
+	</ul></div>
+<div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">javascript slideshow</a> by WOWSlider.com v9.0</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine4/wowslider.js"></script>
+	<script type="text/javascript" src="engine4/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
